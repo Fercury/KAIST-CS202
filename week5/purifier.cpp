@@ -1,3 +1,10 @@
+/*
+ * File Created: Saturday, 1st December 2018 2:06:31 pm
+ * Author: Kihoon Kwon (kwon9804@kaist.ac.kr)
+ * -----------------------------------------
+ * Last Modified: Friday, 7th December 2018 1:16:12 pm
+ * Modified By: Kihoon Kwon (kwon9804@kaist.ac.kr)
+ */
 #include <iostream>
 #include <vector>
 #include <algorithm>
